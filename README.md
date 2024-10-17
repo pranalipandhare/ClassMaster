@@ -13,5 +13,27 @@ Objectives and Goals
     Provide efficient course scheduling and faculty management tools.
     Enhance communication between faculty, administrators, and students.
 
+Tech Stack
+Languages and Frameworks
+    Java 21
+    Spring Boot 3.3.0
+    Spring Validation
+    Spring Web
+    Spring Data JPA
+    Hibernate
+    JPA
+    
+Tools and Libraries
+    OpenAPI
+    H2 Database
+    MySQL
+    Lombok
+
+Development Tools
+    Eclipse
+    Maven
+    Postman
+    H2 Database Console
+
 Scope of the Project
 The project includes features such as user authentication, course scheduling, attendance recording, and faculty profile management. It excludes integration with external systems, advanced analytics, and support for non-academic events.
