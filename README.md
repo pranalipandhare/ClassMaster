@@ -15,6 +15,7 @@ Objectives and Goals
 
 Tech Stack
 Languages and Frameworks
+
     Java 21
     Spring Boot 3.3.0
     Spring Validation
@@ -24,12 +25,14 @@ Languages and Frameworks
     JPA
     
 Tools and Libraries
+
     OpenAPI
     H2 Database
     MySQL
     Lombok
 
 Development Tools
+
     Eclipse
     Maven
     Postman
